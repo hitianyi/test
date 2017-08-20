@@ -16,11 +16,7 @@ int main() {
 
 
 <<<<<<< HEAD
-//test remote chongtu
-=======
-
->>>>>>> origin/master
-
+//a2
 }
 
 
