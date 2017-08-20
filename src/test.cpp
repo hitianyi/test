@@ -14,10 +14,8 @@ int main() {
 	return 0;
 
 
+//m1 and branch a
 
-<<<<<<< HEAD
-//m1
-//m1
 
 }
 
