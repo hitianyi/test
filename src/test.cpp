@@ -14,10 +14,8 @@ int main() {
 	return 0;
 
 
+//bracnch 1
 
-<<<<<<< HEAD
-//bracnch a
-//bracnch a
 
 
 }
