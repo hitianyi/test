@@ -14,13 +14,10 @@ int main() {
 	return 0;
 
 
-//m1
 //b1
 //b2
 
 
-
-//m1
 
 }
 
